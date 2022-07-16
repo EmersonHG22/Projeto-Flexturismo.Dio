@@ -250,9 +250,10 @@ padding-top: 50px;
 
 footer{
     background-color: #122A57; 
-    height: 90px;  
+    height: 150px;  
     display: flex;
     align-items: center;
+    
 }
 
 footer .footer{
